@@ -1,0 +1,40 @@
+body{
+   background-color:rgb(216, 169, 169);
+   width:100%;
+}
+h1{
+    color:rgba(62, 62, 62, 0.61);
+    font-style:italic;
+    font-weight:500px;
+}
+p{
+    font-size:x-large;
+}
+table{
+    border: 3px solid black;
+    border-collapse:collapse;
+    margin:auto;
+    margin-top:20px;
+}
+tr, td, th{
+    border: 2px solid black;
+    color:rgb(43, 41, 41);
+    background-color:rgb(204, 188, 188);
+}
+/*
+img{
+    height: 8%;
+    width: 15%;
+    border: 1px solid black;
+    padding: 0.5%;
+    position: relative;
+    bottom: 90px;
+    right:20px;
+}
+h2{
+    position: relative;
+    bottom: 50px;
+
+}
+*/
+
